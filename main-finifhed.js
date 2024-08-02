@@ -1,3 +1,10 @@
+/*
+Name: Surakshya Pokharel
+Date: 8/2/2024
+Description: main-finished.js
+Description: JavaScript file To add features to bouncing balls.
+*/ 
+
 // set up canvas
 
 const canvas = document.querySelector("canvas");
